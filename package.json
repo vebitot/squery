@@ -1,0 +1,21 @@
+{
+  "name": "SQuery.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.4"
+  },
+  "dependencies": {
+    "express": "4.13.4",
+    "foreman": "1.4.1",
+    "mongoose": "4.4.4",
+    "rootpath": "0.1.2"
+  }
+}
